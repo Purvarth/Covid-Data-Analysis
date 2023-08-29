@@ -6,7 +6,7 @@ The COVID-19 Data Analysis and Visualization project aims to explore, clean, ana
 
 Project Steps:
 
-**Data Collection:**\n
+**Data Collection:**
   -Obtained the COVID-19 dataset from Ourworldindata, ensuring it includes global and regional data.
 ​**Data Cleaning and Preparation:**
   -Utilized MS SQL for data cleaning, dealing with missing values, and standardizing formats.
