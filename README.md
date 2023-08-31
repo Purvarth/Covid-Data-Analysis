@@ -2,6 +2,7 @@
 
 The COVID-19 Data Analysis and Visualization project aims to explore, clean, analyze, and visualize the COVID-19 dataset sourced from Ourworldindata. This project utilizes MS SQL for data cleaning and preparation, followed by Tableau for creating insightful and interactive visualizations. By transforming raw COVID-19 data into meaningful insights and engaging visual representations, the project contributes to a better understanding of the pandemic's impact.
 
+Additionally I have included the code to an IBM project on Covid Data analysis which was one of the main inspiration behind the Project. The data set and analysis used in this porject are different than the one used for the above mentioned project.
 
 
 
